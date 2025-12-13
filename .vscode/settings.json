@@ -1,0 +1,7 @@
+{
+  "speech.speed": 1.25,
+  "speech.voice": "Alex",
+  "read-aloud-text.speed": 1.15
+  //"read-aloud-text.speed": 1.2,
+  //"read-aloud-text.voice": "Alex"
+}
